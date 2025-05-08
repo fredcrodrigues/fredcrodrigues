@@ -1,7 +1,7 @@
 ## Seja Bem vindo :v:
 
-Sou Fredson tenho 26 anos de idade e Quero crescer no Desenvolvimento de software :rocket:. 
-Tenho experiência em  tecnologias de **Desenvolvimento web** e **Ciências de dados** em especial *Machine Learn*.
+Sou Fredson tenho 29 anos de idade e Quero crescer no Desenvolvimento de software :rocket:. 
+Tenho experiência em  tecnologias de **Desenvolvimento web e Mobile** e **Ciências de dados** em especial *Machine Learn*.
 Quero poder contribuir em novos projetos para o meu crescimento profissional afim de adquirir novas habilidades. Atualmente me dedico bastante em meus estudos, 
 gosto de trabalhar o foco e realizar muitos desafios :stuck_out_tongue_closed_eyes:.
 Apaixonado por back-end e Front-End:heart:.
